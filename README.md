@@ -1,2 +1,2 @@
 # Lung_Cancer
-Prediction of Lung Cancer Using Machine Learning Algorithms
+The "Lung Cancer Prediction using Machine Learning" project aims to develop an advanced predictive model that leverages machine learning algorithms to detect and predict lung cancer. By analyzing medical data, such as patient history, radiological images, and genetic information, the system can provide early detection and risk assessment. This project not only improves the accuracy of diagnosis but also enables healthcare professionals to make timely and informed decisions for personalized treatment plans, potentially saving lives through early intervention. It's a significant step towards enhancing the effectiveness and efficiency of lung cancer diagnosis and management.
